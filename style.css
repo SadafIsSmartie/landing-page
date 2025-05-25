@@ -30,6 +30,7 @@ body{
     text-size-adjust: 48px;
     font-weight: 900;
     
+    
 }
 .light-blue{
     background-color: #3882f6;
@@ -50,10 +51,7 @@ body{
     text-size-adjust: 24px;
 }
 
-#main-hero{
-    display: flex;
-    justify-content: flex-start;
-}
+
 
 #hero-content{
     display:flex;
@@ -209,12 +207,14 @@ figcaption{
 }
 
 
-.dark-background{
+.dark2-background{
     margin-top:auto;
     display: flex;
+    justify-content: center;
     align-items: center;
     color: #e4e6e3;
-    padding:12px;
+    padding:10px;
+    background-color: #1F2937;
 
 }
 
